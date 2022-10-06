@@ -1,0 +1,48 @@
+.select-country__drop-box.visible .country__drop-items .select__check-country-tag {
+      display: none;
+      }
+
+/*main__section*/
+.step__main-column{
+width: 70%;
+}
+.step__sidebar-column{
+  width: 30%;
+}
+.main__section{
+  display: flex;
+  justify-content: space-between;
+}
+.main__form-section__one{
+width: 40%;
+}
+.main__form-section__two{
+width:40%;
+}
+.header__conteiner-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-bottom: 10px;
+}
+.main__title{
+margin-bottom: 20px;
+}
+    .main__subtitle {
+    margin-bottom: 5px;
+    }
+  
+    .inform__documents {
+    margin-bottom: 10px;
+    }
+/*buyer*/
+.buyer__section{
+  display: flex;
+  justify-content: space-between;
+}
+.buyer__form-section__one{
+width: 61%;
+}
+.buyer__form-section__two{
+width: 35%;
+}
